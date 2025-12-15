@@ -1,4 +1,4 @@
-# hello-world
+# hello-world（main）
 soyi第一个学习github仓库，第一次修改readme.md文件
 ## 第一阶段：建立财务基础
 ### 理解个人财务状况
